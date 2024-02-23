@@ -1,0 +1,19 @@
+.bookingContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .busDetails {
+    width: 300px;
+    padding: 20px;
+    background-color: lightgray;
+  }
+  
+  .passengerForm {
+    width: 400px;
+    padding: 20px;
+    background-color: lightblue;
+  }
+  
